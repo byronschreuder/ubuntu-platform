@@ -16,12 +16,5 @@
   "bugs": {
     "url": "https://github.com/byronschreuder/ubuntu-platform/issues"
   },
-  "homepage": "https://github.com/byronschreuder/ubuntu-platform#readme",
-  "dependencies": {
-    "@supabase/supabase-js": "^2.50.0"
-  },
-  "directories": {
-    "doc": "docs",
-    "test": "tests"
-  }
+  "homepage": "https://github.com/byronschreuder/ubuntu-platform#readme"
 }
